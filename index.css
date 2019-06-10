@@ -1,0 +1,4 @@
+#header {
+    /* center the image horizontally then vertically and cover with no repeats */
+    background: url("imgs/header.jpeg") center center / cover no-repeat;
+}
